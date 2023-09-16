@@ -177,4 +177,7 @@ html {
     width: fit-content;
     flex-direction: column;
  }
+ .section1{
+    width: fit-content;
+ }
 }
